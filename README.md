@@ -1,5 +1,5 @@
 # synent-task7-Multi_Page_Website-Rathod_Meet
-task-3 of synent technologies web devlopment internship  
+task-7 of synent technologies web devlopment internship  
 - Multipage Meet Techno pvt Website -Responsive 
 
 Main page 
